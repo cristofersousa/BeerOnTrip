@@ -39,7 +39,7 @@ O sitema tem como principais funcionalidasdes:
 * Estabelecimentos podem ter um filtro de pesquisa por tipo de estabelecimento;
 * About é uma pagina mais simples, só com um histórico e afins;
 * Contact e Access são respectivamente para enviar uma mensagem e para logar/cadastrar.
-* 
+
 #### Roles/Permissão
 
 - 1	Administrador: Super usuário do sistema, capaz de cadastrar usuários, bares, cervejas, bem como apagar e editar tais items. Possui privilégio total no site
