@@ -1,6 +1,6 @@
 ![TripOnBeer](https://github.com/cristofersousa/TripOnBeer/blob/master/beerontrip1.png)
 
-#Trip On Beer
+#Beer on Trip
 Projeto baseado no TripAdvisor porém sobre Cervejas e Gastronomia.
 
 ### Proposta:
@@ -30,6 +30,14 @@ Projeto baseado no TripAdvisor porém sobre Cervejas e Gastronomia.
 * Estabelecimentos podem ter um filtro de pesquisa por tipo de estabelecimento;
 * About é uma pagina mais simples, só com um histórico e afins;
 * Contact e Access são respectivamente para enviar uma mensagem e para logar/cadastrar.
+* 
+### Roles/Permissão
+
+- 1	Administrador: Super usuário do sistema, capaz de cadastrar usuários, bares, cervejas, bem como apagar e editar tais items. Possui privilégio total no site
+- 2	Usuário: Capaz de solicitar o cadastro de novas cervejas/estabelecimentos mediante aprovação dos administradores, pode avaliar estabelecimentos e cervejas.
+- 3	ProprietárioEstabelecimento: Pode realizar alterações em seu estabelecimento, cadastrar ou retirar cervejas em seu estabelecimento, solicitar relatório de avaliações.
+- 4	ProprietárioCerveja: Pode realizar alterações na sua marca de cerveja, solicitar relatório de avaliações e responder a eventuais dúvidas dos demais usuários.
+
 
 
 ### Dúvidas do Cliente:
