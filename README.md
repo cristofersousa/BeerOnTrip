@@ -1,34 +1,38 @@
+![TripOnBeer](https://github.com/cristofersousa/TripOnBeer/blob/master/beerontrip1.png)
+
 #Trip On Beer
 Projeto baseado no TripAdvisor porém sobre Cervejas e Gastronomia.
 
-Proposta:
+### Proposta:
 
-Back-end da aplicação deve ser construída com a linguagem Java, adotando os seguintes critérios:
+#### Back-end da aplicação deve ser construída com a linguagem Java, adotando os seguintes critérios:
 
-Servlets, JSTL, JSP, JPA
-MySQL
-Container (TomCat)
-Front-end da aplicação, pode ter os seguintes critérios:
+* Servlets, JSTL, JSP, JPA
+* MySQL
+* Container (TomCat)
 
-Bootstrap 3.3.6
-HTML5
-CSS3
-JavaScript
-jQuery
-A idéia é de um site que seja tipo um TripAdvisor de cerveja,
+#### Front-end da aplicação, pode ter os seguintes critérios:
 
-Funcionalidades:
+* Bootstrap 3.3.6
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
 
-Usuário deverá ter um cadastro ( nome, e-mail, foto, interesses)
-Usuário poderá cadastrar cervejas não existentes somente se possuir conta no sistema.
-Home terá uma notícia padrão sobre cervejas, alguma curiosidade(Isso o ADM vai colocar)
-Buscar por cervejas via (nome, país, tipo)
-Estabelecimentos terá informações sobre bares que pode ser atualizada por um admin;
-Establecimentos também deve conter um campo de busca tipo da página início;
-Estabelecimentos podem ter um filtro de pesquisa por tipo de estabelecimento;
-About é uma pagina mais simples, só com um histórico e afins;
-Contact e Access são respectivamente para enviar uma mensagem e para logar/cadastrar.
-Problemas:
+### Funcionalidades:
+
+* Usuário deverá ter um cadastro ( nome, e-mail, foto, interesses)
+* Usuário poderá cadastrar cervejas não existentes somente se possuir conta no sistema.
+* Home terá uma notícia padrão sobre cervejas, alguma curiosidade(Isso o ADM vai colocar)
+* Buscar por cervejas via (nome, país, tipo)
+* Estabelecimentos terá informações sobre bares que pode ser atualizada por um admin;
+* Establecimentos também deve conter um campo de busca tipo da página início;
+* Estabelecimentos podem ter um filtro de pesquisa por tipo de estabelecimento;
+* About é uma pagina mais simples, só com um histórico e afins;
+* Contact e Access são respectivamente para enviar uma mensagem e para logar/cadastrar.
+
+
+### Dúvidas do Cliente:
 
 Apenas view funcionando, até o momento.
 
@@ -39,6 +43,8 @@ A página de acesso eu acho qque ficou pronta ontem de madrugada, porém falta m
 - Opção de cadastrar user caso ainda não exista;
 - Rodar aplicação no Heroku ou na Openshift
 - Criar o CRUD da app
-License
+- 
+
+### License
 
 MIT @cristofersousa
