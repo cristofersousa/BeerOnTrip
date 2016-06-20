@@ -17,6 +17,8 @@ O sitema tem como principais funcionalidasdes:
 #### Back-end da aplicação deve ser construída adotado a JVM, adotando os seguintes critérios:
 
 * Grails
+* MVC
+* Pattern Code
 * MySQL
 * Container TomCat
 
