@@ -14,11 +14,11 @@ O sitema tem como principais funcionalidasdes:
   - 	Listagem de estabelecimentos com melhores/piores avaliações;
   -  O sistema não abrange a área de venda de cervejas, bem como a comercialização de produtos.
 
-#### Back-end da aplicação deve ser construída com a linguagem Java, adotando os seguintes critérios:
+#### Back-end da aplicação deve ser construída adotado a JVM, adotando os seguintes critérios:
 
-* Servlets, JSTL, JSP, JPA
+* Grails
 * MySQL
-* Container (TomCat)
+* Container TomCat
 
 #### Front-end da aplicação, pode ter os seguintes critérios:
 
