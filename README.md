@@ -26,7 +26,8 @@ O sitema tem como principais funcionalidasdes:
 * HTML5
 * CSS3
 * JavaScript
-* jQuery
+* Vue.js
+* Gulp
 
 #### Funcionalidades:
 
