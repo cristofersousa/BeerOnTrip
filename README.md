@@ -43,7 +43,7 @@ A página de acesso eu acho qque ficou pronta ontem de madrugada, porém falta m
 - Opção de cadastrar user caso ainda não exista;
 - Rodar aplicação no Heroku ou na Openshift
 - Criar o CRUD da app
-- 
+
 
 ### License
 
