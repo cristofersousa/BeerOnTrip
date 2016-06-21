@@ -18,7 +18,7 @@ O sitema tem como principais funcionalidasdes:
 
 * Grails
 * MVC
-* Pattern Code
+* Design Patterns
 * MySQL
 * Container TomCat
 
