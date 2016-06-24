@@ -16,7 +16,8 @@ O sitema tem como principais funcionalidasdes:
 
 #### Back-end da aplicação deve ser construída adotado a JVM, adotando os seguintes critérios:
 
-* Grails
+* [Grails v3.1.7](https://grails.org/download.html)
+* [Sdkman](http://sdkman.io/)
 * MVC
 * Design Patterns
 * MySQL
